@@ -1,0 +1,3 @@
+INSERT INTO usuarios (apellidos, celular, ciudad_residencia, direccion, edad, fecha_nacimiento, nombres, numero_documento, telefono, tipo_documento) VALUES ('Valencia Leyes', '3125678907', 'Medellin', 'Calle 8', '37', '1985-07-18', 'John Jairo', '100200300','5874567','CC');
+
+INSERT INTO usuarios (apellidos, celular, ciudad_residencia, direccion, edad, fecha_nacimiento, nombres, numero_documento, telefono, tipo_documento) VALUES ('Valencia Moreno', '3205712345', 'Medellin', 'Calle 8', '4', '2018-03-02', 'Juan José', '20180302','5874567','RC');
